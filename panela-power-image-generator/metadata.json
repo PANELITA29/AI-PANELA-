@@ -1,0 +1,5 @@
+{
+  "name": "Panela Power Image Generator",
+  "description": "An application that uses Gemini's Imagen 4 model to generate powerful and epic background images for 'panela' (unrefined whole cane sugar) based on user prompts.",
+  "requestFramePermissions": []
+}
